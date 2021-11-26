@@ -14,7 +14,7 @@
         default {
            bindings = <
 // You probably want to change the line below...
-                &kp RET
+                &mt RCTRL SPACE
             >;
         };
     };
